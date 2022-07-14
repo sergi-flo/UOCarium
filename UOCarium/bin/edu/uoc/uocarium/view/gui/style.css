@@ -1,0 +1,7 @@
+.toggle-button:selected {
+    -fx-base: lightblue; 
+   }
+   
+#nameLabel {
+	-fx-font-weight: bold;
+}
